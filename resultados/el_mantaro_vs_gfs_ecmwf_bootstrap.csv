@@ -1,0 +1,97 @@
+umbral,plazo,casos,frente a,ΔCSI,CSI,ΔBSS,BSS
+meteorologica,1,todos,GFS crudo,"+0.882 [+0.851, +0.906]",mejor,"+0.944 [+0.915, +0.966]",mejor
+meteorologica,1,todos,GFS corregido,"+0.384 [+0.330, +0.441]",mejor,"+0.386 [+0.319, +0.466]",mejor
+meteorologica,1,todos,GFS corregido + Td,"+0.325 [+0.271, +0.387]",mejor,"+0.323 [+0.265, +0.403]",mejor
+meteorologica,1,todos,ECMWF crudo,"+0.882 [+0.856, +0.907]",mejor,"+0.944 [+0.918, +0.967]",mejor
+meteorologica,1,todos,ECMWF corregido,"+0.493 [+0.431, +0.551]",mejor,"+0.497 [+0.428, +0.576]",mejor
+meteorologica,1,todos,ECMWF corregido + Td,"+0.373 [+0.313, +0.435]",mejor,"+0.352 [+0.296, +0.413]",mejor
+meteorologica,1,inicio,GFS crudo,"+0.570 [+0.500, +0.645]",mejor,"+0.615 [+0.534, +0.687]",mejor
+meteorologica,1,inicio,GFS corregido,"+0.450 [+0.368, +0.531]",mejor,"+1.077 [+0.825, +1.384]",mejor
+meteorologica,1,inicio,GFS corregido + Td,"+0.406 [+0.325, +0.484]",mejor,"+0.933 [+0.738, +1.195]",mejor
+meteorologica,1,inicio,ECMWF crudo,"+0.569 [+0.500, +0.641]",mejor,"+0.615 [+0.533, +0.689]",mejor
+meteorologica,1,inicio,ECMWF corregido,"+0.458 [+0.377, +0.538]",mejor,"+0.978 [+0.779, +1.208]",mejor
+meteorologica,1,inicio,ECMWF corregido + Td,"+0.413 [+0.334, +0.495]",mejor,"+0.728 [+0.582, +0.915]",mejor
+meteorologica,3,todos,GFS crudo,"+0.792 [+0.750, +0.829]",mejor,"+0.865 [+0.822, +0.899]",mejor
+meteorologica,3,todos,GFS corregido,"+0.295 [+0.245, +0.348]",mejor,"+0.312 [+0.249, +0.387]",mejor
+meteorologica,3,todos,GFS corregido + Td,"+0.256 [+0.209, +0.309]",mejor,"+0.266 [+0.214, +0.337]",mejor
+meteorologica,3,todos,ECMWF crudo,"+0.792 [+0.752, +0.828]",mejor,"+0.864 [+0.825, +0.898]",mejor
+meteorologica,3,todos,ECMWF corregido,"+0.395 [+0.326, +0.461]",mejor,"+0.418 [+0.346, +0.498]",mejor
+meteorologica,3,todos,ECMWF corregido + Td,"+0.289 [+0.233, +0.349]",mejor,"+0.292 [+0.238, +0.351]",mejor
+meteorologica,3,inicio,GFS crudo,"+0.666 [+0.606, +0.717]",mejor,"+0.737 [+0.677, +0.785]",mejor
+meteorologica,3,inicio,GFS corregido,"+0.352 [+0.292, +0.420]",mejor,"+0.471 [+0.375, +0.586]",mejor
+meteorologica,3,inicio,GFS corregido + Td,"+0.293 [+0.230, +0.356]",mejor,"+0.387 [+0.300, +0.488]",mejor
+meteorologica,3,inicio,ECMWF crudo,"+0.668 [+0.609, +0.718]",mejor,"+0.738 [+0.677, +0.783]",mejor
+meteorologica,3,inicio,ECMWF corregido,"+0.405 [+0.334, +0.484]",mejor,"+0.540 [+0.449, +0.651]",mejor
+meteorologica,3,inicio,ECMWF corregido + Td,"+0.332 [+0.257, +0.403]",mejor,"+0.396 [+0.315, +0.480]",mejor
+meteorologica,6,todos,GFS crudo,"+0.700 [+0.646, +0.750]",mejor,"+0.773 [+0.718, +0.821]",mejor
+meteorologica,6,todos,GFS corregido,"+0.198 [+0.146, +0.254]",mejor,"+0.218 [+0.159, +0.286]",mejor
+meteorologica,6,todos,GFS corregido + Td,"+0.163 [+0.112, +0.213]",mejor,"+0.176 [+0.120, +0.237]",mejor
+meteorologica,6,todos,ECMWF crudo,"+0.699 [+0.646, +0.743]",mejor,"+0.772 [+0.717, +0.818]",mejor
+meteorologica,6,todos,ECMWF corregido,"+0.299 [+0.224, +0.376]",mejor,"+0.325 [+0.250, +0.407]",mejor
+meteorologica,6,todos,ECMWF corregido + Td,"+0.189 [+0.125, +0.258]",mejor,"+0.199 [+0.138, +0.264]",mejor
+meteorologica,6,inicio,GFS crudo,"+0.663 [+0.603, +0.715]",mejor,"+0.735 [+0.676, +0.786]",mejor
+meteorologica,6,inicio,GFS corregido,"+0.200 [+0.140, +0.263]",mejor,"+0.232 [+0.164, +0.310]",mejor
+meteorologica,6,inicio,GFS corregido + Td,"+0.165 [+0.105, +0.220]",mejor,"+0.175 [+0.121, +0.252]",mejor
+meteorologica,6,inicio,ECMWF crudo,"+0.661 [+0.606, +0.716]",mejor,"+0.734 [+0.675, +0.788]",mejor
+meteorologica,6,inicio,ECMWF corregido,"+0.288 [+0.203, +0.365]",mejor,"+0.335 [+0.246, +0.417]",mejor
+meteorologica,6,inicio,ECMWF corregido + Td,"+0.183 [+0.096, +0.257]",mejor,"+0.196 [+0.120, +0.269]",mejor
+meteorologica,alerta6,todos,GFS crudo,"+0.750 [+0.704, +0.795]",mejor,"+0.858 [+0.800, +0.908]",mejor
+meteorologica,alerta6,todos,GFS corregido,"+0.233 [+0.180, +0.288]",mejor,"+0.261 [+0.203, +0.332]",mejor
+meteorologica,alerta6,todos,GFS corregido + Td,"+0.205 [+0.154, +0.262]",mejor,"+0.218 [+0.163, +0.285]",mejor
+meteorologica,alerta6,todos,ECMWF crudo,"+0.751 [+0.704, +0.794]",mejor,"+0.858 [+0.802, +0.907]",mejor
+meteorologica,alerta6,todos,ECMWF corregido,"+0.337 [+0.271, +0.406]",mejor,"+0.374 [+0.298, +0.458]",mejor
+meteorologica,alerta6,todos,ECMWF corregido + Td,"+0.239 [+0.180, +0.295]",mejor,"+0.224 [+0.166, +0.279]",mejor
+meteorologica,alerta6,inicio,GFS crudo,"+0.628 [+0.568, +0.681]",mejor,"+0.705 [+0.633, +0.766]",mejor
+meteorologica,alerta6,inicio,GFS corregido,"+0.234 [+0.168, +0.305]",mejor,"+0.318 [+0.231, +0.422]",mejor
+meteorologica,alerta6,inicio,GFS corregido + Td,"+0.211 [+0.146, +0.277]",mejor,"+0.268 [+0.185, +0.367]",mejor
+meteorologica,alerta6,inicio,ECMWF crudo,"+0.624 [+0.566, +0.677]",mejor,"+0.703 [+0.626, +0.763]",mejor
+meteorologica,alerta6,inicio,ECMWF corregido,"+0.315 [+0.243, +0.394]",mejor,"+0.420 [+0.329, +0.527]",mejor
+meteorologica,alerta6,inicio,ECMWF corregido + Td,"+0.236 [+0.174, +0.308]",mejor,"+0.252 [+0.173, +0.337]",mejor
+agronomica,1,todos,GFS crudo,"+0.891 [+0.871, +0.908]",mejor,"+0.997 [+0.973, +1.017]",mejor
+agronomica,1,todos,GFS corregido,"+0.389 [+0.349, +0.427]",mejor,"+0.397 [+0.347, +0.454]",mejor
+agronomica,1,todos,GFS corregido + Td,"+0.373 [+0.333, +0.415]",mejor,"+0.371 [+0.322, +0.430]",mejor
+agronomica,1,todos,ECMWF crudo,"+0.838 [+0.808, +0.863]",mejor,"+0.938 [+0.907, +0.966]",mejor
+agronomica,1,todos,ECMWF corregido,"+0.456 [+0.413, +0.502]",mejor,"+0.463 [+0.411, +0.528]",mejor
+agronomica,1,todos,ECMWF corregido + Td,"+0.355 [+0.318, +0.396]",mejor,"+0.326 [+0.287, +0.372]",mejor
+agronomica,1,inicio,GFS crudo,"+0.589 [+0.531, +0.646]",mejor,"+0.636 [+0.583, +0.687]",mejor
+agronomica,1,inicio,GFS corregido,"+0.475 [+0.419, +0.533]",mejor,"+1.209 [+1.008, +1.464]",mejor
+agronomica,1,inicio,GFS corregido + Td,"+0.468 [+0.408, +0.525]",mejor,"+1.137 [+0.933, +1.383]",mejor
+agronomica,1,inicio,ECMWF crudo,"+0.588 [+0.533, +0.647]",mejor,"+0.636 [+0.583, +0.685]",mejor
+agronomica,1,inicio,ECMWF corregido,"+0.476 [+0.415, +0.536]",mejor,"+1.106 [+0.928, +1.317]",mejor
+agronomica,1,inicio,ECMWF corregido + Td,"+0.436 [+0.376, +0.499]",mejor,"+0.847 [+0.702, +1.012]",mejor
+agronomica,3,todos,GFS crudo,"+0.777 [+0.747, +0.805]",mejor,"+0.880 [+0.843, +0.917]",mejor
+agronomica,3,todos,GFS corregido,"+0.279 [+0.240, +0.317]",mejor,"+0.288 [+0.241, +0.339]",mejor
+agronomica,3,todos,GFS corregido + Td,"+0.264 [+0.227, +0.302]",mejor,"+0.271 [+0.231, +0.322]",mejor
+agronomica,3,todos,ECMWF crudo,"+0.723 [+0.687, +0.756]",mejor,"+0.822 [+0.778, +0.859]",mejor
+agronomica,3,todos,ECMWF corregido,"+0.341 [+0.296, +0.389]",mejor,"+0.352 [+0.300, +0.411]",mejor
+agronomica,3,todos,ECMWF corregido + Td,"+0.260 [+0.221, +0.297]",mejor,"+0.245 [+0.207, +0.284]",mejor
+agronomica,3,inicio,GFS crudo,"+0.640 [+0.601, +0.677]",mejor,"+0.697 [+0.648, +0.737]",mejor
+agronomica,3,inicio,GFS corregido,"+0.327 [+0.277, +0.373]",mejor,"+0.433 [+0.352, +0.518]",mejor
+agronomica,3,inicio,GFS corregido + Td,"+0.306 [+0.252, +0.352]",mejor,"+0.390 [+0.320, +0.470]",mejor
+agronomica,3,inicio,ECMWF crudo,"+0.631 [+0.590, +0.669]",mejor,"+0.687 [+0.635, +0.728]",mejor
+agronomica,3,inicio,ECMWF corregido,"+0.366 [+0.312, +0.414]",mejor,"+0.471 [+0.389, +0.557]",mejor
+agronomica,3,inicio,ECMWF corregido + Td,"+0.301 [+0.253, +0.349]",mejor,"+0.327 [+0.267, +0.399]",mejor
+agronomica,6,todos,GFS crudo,"+0.666 [+0.625, +0.705]",mejor,"+0.791 [+0.741, +0.834]",mejor
+agronomica,6,todos,GFS corregido,"+0.171 [+0.127, +0.211]",mejor,"+0.199 [+0.152, +0.251]",mejor
+agronomica,6,todos,GFS corregido + Td,"+0.156 [+0.115, +0.196]",mejor,"+0.184 [+0.140, +0.230]",mejor
+agronomica,6,todos,ECMWF crudo,"+0.613 [+0.571, +0.654]",mejor,"+0.733 [+0.683, +0.779]",mejor
+agronomica,6,todos,ECMWF corregido,"+0.232 [+0.177, +0.282]",mejor,"+0.265 [+0.210, +0.320]",mejor
+agronomica,6,todos,ECMWF corregido + Td,"+0.144 [+0.103, +0.190]",mejor,"+0.153 [+0.114, +0.198]",mejor
+agronomica,6,inicio,GFS crudo,"+0.615 [+0.574, +0.652]",mejor,"+0.728 [+0.678, +0.773]",mejor
+agronomica,6,inicio,GFS corregido,"+0.167 [+0.123, +0.211]",mejor,"+0.218 [+0.165, +0.277]",mejor
+agronomica,6,inicio,GFS corregido + Td,"+0.157 [+0.113, +0.200]",mejor,"+0.194 [+0.143, +0.248]",mejor
+agronomica,6,inicio,ECMWF crudo,"+0.581 [+0.538, +0.625]",mejor,"+0.692 [+0.642, +0.741]",mejor
+agronomica,6,inicio,ECMWF corregido,"+0.232 [+0.175, +0.288]",mejor,"+0.288 [+0.227, +0.356]",mejor
+agronomica,6,inicio,ECMWF corregido + Td,"+0.145 [+0.094, +0.191]",mejor,"+0.157 [+0.107, +0.210]",mejor
+agronomica,alerta6,todos,GFS crudo,"+0.765 [+0.734, +0.792]",mejor,"+0.957 [+0.910, +1.003]",mejor
+agronomica,alerta6,todos,GFS corregido,"+0.235 [+0.197, +0.275]",mejor,"+0.266 [+0.218, +0.317]",mejor
+agronomica,alerta6,todos,GFS corregido + Td,"+0.205 [+0.166, +0.244]",mejor,"+0.241 [+0.197, +0.284]",mejor
+agronomica,alerta6,todos,ECMWF crudo,"+0.678 [+0.639, +0.716]",mejor,"+0.851 [+0.798, +0.905]",mejor
+agronomica,alerta6,todos,ECMWF corregido,"+0.288 [+0.242, +0.333]",mejor,"+0.324 [+0.269, +0.376]",mejor
+agronomica,alerta6,todos,ECMWF corregido + Td,"+0.199 [+0.160, +0.238]",mejor,"+0.198 [+0.156, +0.236]",mejor
+agronomica,alerta6,inicio,GFS crudo,"+0.626 [+0.587, +0.665]",mejor,"+0.736 [+0.684, +0.788]",mejor
+agronomica,alerta6,inicio,GFS corregido,"+0.228 [+0.186, +0.273]",mejor,"+0.322 [+0.253, +0.408]",mejor
+agronomica,alerta6,inicio,GFS corregido + Td,"+0.196 [+0.155, +0.246]",mejor,"+0.287 [+0.223, +0.361]",mejor
+agronomica,alerta6,inicio,ECMWF crudo,"+0.592 [+0.552, +0.634]",mejor,"+0.699 [+0.644, +0.755]",mejor
+agronomica,alerta6,inicio,ECMWF corregido,"+0.284 [+0.234, +0.340]",mejor,"+0.378 [+0.308, +0.463]",mejor
+agronomica,alerta6,inicio,ECMWF corregido + Td,"+0.200 [+0.152, +0.245]",mejor,"+0.219 [+0.164, +0.282]",mejor

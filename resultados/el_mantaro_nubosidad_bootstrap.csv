@@ -1,0 +1,85 @@
+umbral,plazo,casos,variante,ΔBSS,ΔCSI,sig_BSS,sig_CSI
+meteorologica,1,todos,+ hoja,"+0.001 [-0.002, +0.004]","-0.002 [-0.009, +0.005]",False,False
+meteorologica,1,todos,+ nubosidad,"-0.001 [-0.005, +0.003]","-0.005 [-0.014, +0.003]",False,False
+meteorologica,1,todos,+ hoja + nubosidad,"-0.001 [-0.005, +0.004]","-0.006 [-0.014, +0.003]",False,False
+meteorologica,1,inicio,+ hoja,"+0.004 [-0.011, +0.019]","-0.007 [-0.031, +0.015]",False,False
+meteorologica,1,inicio,+ nubosidad,"-0.007 [-0.025, +0.011]","-0.024 [-0.051, +0.003]",False,False
+meteorologica,1,inicio,+ hoja + nubosidad,"-0.001 [-0.022, +0.020]","-0.028 [-0.061, +0.006]",False,False
+meteorologica,2,todos,+ hoja,"-0.001 [-0.005, +0.002]","-0.002 [-0.012, +0.007]",False,False
+meteorologica,2,todos,+ nubosidad,"+0.001 [-0.005, +0.007]","-0.003 [-0.015, +0.008]",False,False
+meteorologica,2,todos,+ hoja + nubosidad,"+0.001 [-0.006, +0.008]","-0.004 [-0.019, +0.011]",False,False
+meteorologica,2,inicio,+ hoja,"-0.001 [-0.009, +0.006]","-0.004 [-0.023, +0.015]",False,False
+meteorologica,2,inicio,+ nubosidad,"+0.005 [-0.008, +0.020]","-0.003 [-0.028, +0.019]",False,False
+meteorologica,2,inicio,+ hoja + nubosidad,"+0.006 [-0.008, +0.021]","-0.006 [-0.031, +0.020]",False,False
+meteorologica,3,todos,+ hoja,"-0.003 [-0.006, +0.001]","-0.005 [-0.014, +0.004]",False,False
+meteorologica,3,todos,+ nubosidad,"+0.009 [-0.000, +0.019]","+0.001 [-0.012, +0.016]",False,False
+meteorologica,3,todos,+ hoja + nubosidad,"+0.009 [+0.001, +0.019]","+0.002 [-0.011, +0.017]",True,False
+meteorologica,3,inicio,+ hoja,"-0.002 [-0.009, +0.005]","-0.005 [-0.020, +0.010]",False,False
+meteorologica,3,inicio,+ nubosidad,"+0.017 [+0.002, +0.035]","+0.008 [-0.014, +0.029]",True,False
+meteorologica,3,inicio,+ hoja + nubosidad,"+0.021 [+0.004, +0.039]","+0.010 [-0.013, +0.032]",True,False
+meteorologica,4,todos,+ hoja,"+0.003 [-0.001, +0.007]","-0.000 [-0.009, +0.008]",False,False
+meteorologica,4,todos,+ nubosidad,"+0.018 [+0.006, +0.031]","+0.010 [-0.005, +0.026]",True,False
+meteorologica,4,todos,+ hoja + nubosidad,"+0.019 [+0.007, +0.031]","+0.010 [-0.006, +0.024]",True,False
+meteorologica,4,inicio,+ hoja,"+0.003 [-0.002, +0.009]","+0.000 [-0.011, +0.011]",False,False
+meteorologica,4,inicio,+ nubosidad,"+0.026 [+0.010, +0.046]","+0.016 [-0.006, +0.039]",True,False
+meteorologica,4,inicio,+ hoja + nubosidad,"+0.027 [+0.010, +0.044]","+0.016 [-0.007, +0.037]",True,False
+meteorologica,5,todos,+ hoja,"+0.003 [-0.002, +0.008]","+0.002 [-0.007, +0.012]",False,False
+meteorologica,5,todos,+ nubosidad,"+0.016 [+0.001, +0.031]","+0.022 [+0.002, +0.039]",True,True
+meteorologica,5,todos,+ hoja + nubosidad,"+0.020 [+0.004, +0.036]","+0.022 [+0.002, +0.042]",True,True
+meteorologica,5,inicio,+ hoja,"+0.004 [-0.002, +0.011]","+0.002 [-0.011, +0.013]",False,False
+meteorologica,5,inicio,+ nubosidad,"+0.019 [-0.000, +0.038]","+0.023 [-0.000, +0.049]",False,False
+meteorologica,5,inicio,+ hoja + nubosidad,"+0.024 [+0.005, +0.045]","+0.024 [+0.001, +0.047]",True,True
+meteorologica,6,todos,+ hoja,"+0.001 [-0.004, +0.007]","+0.007 [-0.002, +0.016]",False,False
+meteorologica,6,todos,+ nubosidad,"+0.029 [+0.011, +0.048]","+0.035 [+0.013, +0.053]",True,True
+meteorologica,6,todos,+ hoja + nubosidad,"+0.032 [+0.015, +0.053]","+0.038 [+0.017, +0.061]",True,True
+meteorologica,6,inicio,+ hoja,"+0.002 [-0.005, +0.008]","+0.008 [-0.001, +0.018]",False,False
+meteorologica,6,inicio,+ nubosidad,"+0.035 [+0.015, +0.057]","+0.039 [+0.017, +0.061]",True,True
+meteorologica,6,inicio,+ hoja + nubosidad,"+0.038 [+0.018, +0.062]","+0.044 [+0.020, +0.068]",True,True
+meteorologica,alerta6,todos,+ hoja,"+0.002 [-0.002, +0.008]","-0.001 [-0.009, +0.008]",False,False
+meteorologica,alerta6,todos,+ nubosidad,"+0.020 [+0.006, +0.036]","+0.025 [+0.010, +0.042]",True,True
+meteorologica,alerta6,todos,+ hoja + nubosidad,"+0.022 [+0.008, +0.037]","+0.026 [+0.011, +0.042]",True,True
+meteorologica,alerta6,inicio,+ hoja,"+0.003 [-0.006, +0.010]","-0.003 [-0.015, +0.009]",False,False
+meteorologica,alerta6,inicio,+ nubosidad,"+0.032 [+0.008, +0.056]","+0.035 [+0.013, +0.056]",True,True
+meteorologica,alerta6,inicio,+ hoja + nubosidad,"+0.031 [+0.009, +0.058]","+0.034 [+0.011, +0.057]",True,True
+agronomica,1,todos,+ hoja,"-0.002 [-0.004, -0.000]","-0.001 [-0.006, +0.004]",False,False
+agronomica,1,todos,+ nubosidad,"+0.001 [-0.002, +0.005]","+0.003 [-0.003, +0.011]",False,False
+agronomica,1,todos,+ hoja + nubosidad,"+0.001 [-0.002, +0.005]","+0.005 [-0.002, +0.013]",False,False
+agronomica,1,inicio,+ hoja,"-0.007 [-0.015, +0.001]","-0.007 [-0.025, +0.013]",False,False
+agronomica,1,inicio,+ nubosidad,"+0.009 [-0.008, +0.025]","+0.018 [-0.009, +0.047]",False,False
+agronomica,1,inicio,+ hoja + nubosidad,"+0.008 [-0.008, +0.026]","+0.019 [-0.010, +0.047]",False,False
+agronomica,2,todos,+ hoja,"+0.000 [-0.002, +0.003]","+0.002 [-0.004, +0.008]",False,False
+agronomica,2,todos,+ nubosidad,"+0.009 [+0.002, +0.016]","+0.011 [+0.001, +0.023]",True,True
+agronomica,2,todos,+ hoja + nubosidad,"+0.009 [+0.001, +0.015]","+0.013 [+0.002, +0.024]",True,True
+agronomica,2,inicio,+ hoja,"-0.002 [-0.009, +0.003]","-0.002 [-0.014, +0.010]",False,False
+agronomica,2,inicio,+ nubosidad,"+0.022 [+0.005, +0.040]","+0.023 [-0.001, +0.047]",True,False
+agronomica,2,inicio,+ hoja + nubosidad,"+0.019 [+0.002, +0.039]","+0.026 [+0.004, +0.050]",True,True
+agronomica,3,todos,+ hoja,"-0.002 [-0.004, +0.001]","+0.000 [-0.006, +0.006]",False,False
+agronomica,3,todos,+ nubosidad,"+0.021 [+0.011, +0.033]","+0.024 [+0.010, +0.037]",True,True
+agronomica,3,todos,+ hoja + nubosidad,"+0.019 [+0.009, +0.029]","+0.027 [+0.015, +0.040]",True,True
+agronomica,3,inicio,+ hoja,"-0.003 [-0.008, +0.001]","+0.002 [-0.009, +0.012]",False,False
+agronomica,3,inicio,+ nubosidad,"+0.042 [+0.024, +0.060]","+0.050 [+0.030, +0.070]",True,True
+agronomica,3,inicio,+ hoja + nubosidad,"+0.038 [+0.019, +0.058]","+0.053 [+0.033, +0.074]",True,True
+agronomica,4,todos,+ hoja,"+0.000 [-0.003, +0.004]","+0.004 [-0.003, +0.011]",False,False
+agronomica,4,todos,+ nubosidad,"+0.028 [+0.016, +0.041]","+0.035 [+0.021, +0.051]",True,True
+agronomica,4,todos,+ hoja + nubosidad,"+0.029 [+0.016, +0.042]","+0.038 [+0.023, +0.053]",True,True
+agronomica,4,inicio,+ hoja,"+0.000 [-0.005, +0.005]","+0.006 [-0.003, +0.016]",False,False
+agronomica,4,inicio,+ nubosidad,"+0.043 [+0.023, +0.065]","+0.052 [+0.032, +0.073]",True,True
+agronomica,4,inicio,+ hoja + nubosidad,"+0.044 [+0.025, +0.064]","+0.053 [+0.034, +0.075]",True,True
+agronomica,5,todos,+ hoja,"+0.003 [-0.002, +0.007]","-0.002 [-0.010, +0.006]",False,False
+agronomica,5,todos,+ nubosidad,"+0.033 [+0.018, +0.049]","+0.026 [+0.009, +0.042]",True,True
+agronomica,5,todos,+ hoja + nubosidad,"+0.035 [+0.019, +0.051]","+0.032 [+0.015, +0.050]",True,True
+agronomica,5,inicio,+ hoja,"+0.005 [-0.002, +0.011]","-0.000 [-0.009, +0.009]",False,False
+agronomica,5,inicio,+ nubosidad,"+0.046 [+0.026, +0.067]","+0.037 [+0.016, +0.059]",True,True
+agronomica,5,inicio,+ hoja + nubosidad,"+0.048 [+0.027, +0.070]","+0.043 [+0.022, +0.066]",True,True
+agronomica,6,todos,+ hoja,"+0.000 [-0.004, +0.005]","-0.003 [-0.011, +0.005]",False,False
+agronomica,6,todos,+ nubosidad,"+0.041 [+0.025, +0.058]","+0.034 [+0.018, +0.052]",True,True
+agronomica,6,todos,+ hoja + nubosidad,"+0.042 [+0.022, +0.060]","+0.033 [+0.013, +0.050]",True,True
+agronomica,6,inicio,+ hoja,"-0.000 [-0.005, +0.005]","-0.003 [-0.012, +0.006]",False,False
+agronomica,6,inicio,+ nubosidad,"+0.049 [+0.029, +0.071]","+0.039 [+0.020, +0.058]",True,True
+agronomica,6,inicio,+ hoja + nubosidad,"+0.050 [+0.030, +0.071]","+0.039 [+0.019, +0.058]",True,True
+agronomica,alerta6,todos,+ hoja,"-0.000 [-0.004, +0.003]","-0.001 [-0.006, +0.005]",False,False
+agronomica,alerta6,todos,+ nubosidad,"+0.028 [+0.015, +0.043]","+0.023 [+0.012, +0.036]",True,True
+agronomica,alerta6,todos,+ hoja + nubosidad,"+0.028 [+0.014, +0.043]","+0.024 [+0.010, +0.036]",True,True
+agronomica,alerta6,inicio,+ hoja,"-0.001 [-0.007, +0.004]","-0.002 [-0.011, +0.006]",False,False
+agronomica,alerta6,inicio,+ nubosidad,"+0.046 [+0.025, +0.069]","+0.033 [+0.014, +0.052]",True,True
+agronomica,alerta6,inicio,+ hoja + nubosidad,"+0.047 [+0.025, +0.070]","+0.035 [+0.015, +0.054]",True,True

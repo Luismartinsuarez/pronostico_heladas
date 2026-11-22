@@ -1,0 +1,49 @@
+umbral,plazo,casos,modelo,ΔBSS,ΔCSI,BSS,CSI
+meteorologica,1,todos,boosting + isotónica,"+0.006 [+0.002, +0.011]","+0.004 [-0.004, +0.012]",mejor,igual
+meteorologica,1,todos,boosting + Platt,"+0.007 [+0.003, +0.010]","+0.005 [-0.003, +0.013]",mejor,igual
+meteorologica,1,todos,random forest + isotónica,"-0.022 [-0.031, -0.014]","-0.023 [-0.037, -0.008]",peor,peor
+meteorologica,1,inicio,boosting + isotónica,"+0.018 [+0.001, +0.035]","+0.012 [-0.018, +0.039]",mejor,igual
+meteorologica,1,inicio,boosting + Platt,"+0.020 [+0.005, +0.036]","+0.010 [-0.014, +0.037]",mejor,igual
+meteorologica,1,inicio,random forest + isotónica,"-0.037 [-0.069, -0.005]","-0.061 [-0.105, -0.012]",peor,peor
+meteorologica,3,todos,boosting + isotónica,"+0.000 [-0.006, +0.006]","-0.002 [-0.016, +0.011]",igual,igual
+meteorologica,3,todos,boosting + Platt,"+0.002 [-0.005, +0.008]","+0.002 [-0.011, +0.016]",igual,igual
+meteorologica,3,todos,random forest + isotónica,"-0.034 [-0.046, -0.023]","-0.046 [-0.065, -0.026]",peor,peor
+meteorologica,3,inicio,boosting + isotónica,"-0.000 [-0.011, +0.010]","-0.009 [-0.030, +0.012]",igual,igual
+meteorologica,3,inicio,boosting + Platt,"+0.002 [-0.007, +0.012]","+0.001 [-0.019, +0.021]",igual,igual
+meteorologica,3,inicio,random forest + isotónica,"-0.034 [-0.052, -0.015]","-0.048 [-0.076, -0.020]",peor,peor
+meteorologica,6,todos,boosting + isotónica,"+0.011 [+0.002, +0.020]","+0.007 [-0.006, +0.019]",mejor,igual
+meteorologica,6,todos,boosting + Platt,"+0.012 [+0.005, +0.019]","+0.005 [-0.007, +0.017]",mejor,igual
+meteorologica,6,todos,random forest + isotónica,"-0.033 [-0.049, -0.017]","-0.039 [-0.063, -0.019]",peor,peor
+meteorologica,6,inicio,boosting + isotónica,"+0.012 [+0.003, +0.021]","+0.006 [-0.007, +0.021]",mejor,igual
+meteorologica,6,inicio,boosting + Platt,"+0.014 [+0.006, +0.022]","+0.007 [-0.004, +0.020]",mejor,igual
+meteorologica,6,inicio,random forest + isotónica,"-0.024 [-0.042, -0.006]","-0.036 [-0.060, -0.012]",peor,peor
+meteorologica,alerta6,todos,boosting + isotónica,"+0.011 [+0.003, +0.019]","-0.005 [-0.014, +0.005]",mejor,igual
+meteorologica,alerta6,todos,boosting + Platt,"+0.011 [+0.005, +0.019]","+0.003 [-0.006, +0.012]",mejor,igual
+meteorologica,alerta6,todos,random forest + isotónica,"-0.012 [-0.025, +0.000]","-0.034 [-0.050, -0.019]",igual,peor
+meteorologica,alerta6,inicio,boosting + isotónica,"+0.020 [+0.009, +0.035]","-0.007 [-0.022, +0.007]",mejor,igual
+meteorologica,alerta6,inicio,boosting + Platt,"+0.020 [+0.009, +0.033]","+0.005 [-0.009, +0.018]",mejor,igual
+meteorologica,alerta6,inicio,random forest + isotónica,"-0.004 [-0.023, +0.017]","-0.043 [-0.065, -0.021]",igual,peor
+agronomica,1,todos,boosting + isotónica,"+0.002 [-0.000, +0.005]","-0.003 [-0.009, +0.004]",igual,igual
+agronomica,1,todos,boosting + Platt,"+0.003 [+0.000, +0.006]","-0.001 [-0.007, +0.006]",mejor,igual
+agronomica,1,todos,random forest + isotónica,"-0.023 [-0.029, -0.017]","-0.032 [-0.041, -0.021]",peor,peor
+agronomica,1,inicio,boosting + isotónica,"+0.009 [-0.004, +0.022]","-0.014 [-0.040, +0.009]",igual,igual
+agronomica,1,inicio,boosting + Platt,"+0.010 [-0.002, +0.022]","-0.003 [-0.033, +0.022]",igual,igual
+agronomica,1,inicio,random forest + isotónica,"-0.046 [-0.071, -0.022]","-0.110 [-0.149, -0.072]",peor,peor
+agronomica,3,todos,boosting + isotónica,"+0.008 [+0.002, +0.012]","-0.002 [-0.010, +0.006]",mejor,igual
+agronomica,3,todos,boosting + Platt,"+0.008 [+0.004, +0.012]","-0.005 [-0.013, +0.004]",mejor,igual
+agronomica,3,todos,random forest + isotónica,"-0.018 [-0.027, -0.008]","-0.031 [-0.043, -0.017]",peor,peor
+agronomica,3,inicio,boosting + isotónica,"+0.016 [+0.007, +0.025]","+0.000 [-0.014, +0.013]",mejor,igual
+agronomica,3,inicio,boosting + Platt,"+0.016 [+0.008, +0.024]","-0.007 [-0.020, +0.007]",mejor,igual
+agronomica,3,inicio,random forest + isotónica,"-0.003 [-0.019, +0.014]","-0.033 [-0.053, -0.015]",igual,peor
+agronomica,6,todos,boosting + isotónica,"+0.019 [+0.012, +0.025]","+0.005 [-0.005, +0.014]",mejor,igual
+agronomica,6,todos,boosting + Platt,"+0.020 [+0.014, +0.025]","+0.006 [-0.003, +0.015]",mejor,igual
+agronomica,6,todos,random forest + isotónica,"-0.028 [-0.040, -0.015]","-0.040 [-0.055, -0.024]",peor,peor
+agronomica,6,inicio,boosting + isotónica,"+0.023 [+0.016, +0.031]","+0.008 [-0.003, +0.020]",mejor,igual
+agronomica,6,inicio,boosting + Platt,"+0.024 [+0.018, +0.031]","+0.011 [+0.001, +0.021]",mejor,mejor
+agronomica,6,inicio,random forest + isotónica,"-0.020 [-0.035, -0.006]","-0.040 [-0.057, -0.022]",peor,peor
+agronomica,alerta6,todos,boosting + isotónica,"+0.020 [+0.014, +0.026]","+0.004 [-0.002, +0.010]",mejor,igual
+agronomica,alerta6,todos,boosting + Platt,"+0.019 [+0.014, +0.025]","+0.005 [-0.001, +0.011]",mejor,igual
+agronomica,alerta6,todos,random forest + isotónica,"+0.001 [-0.010, +0.012]","-0.009 [-0.021, +0.002]",igual,igual
+agronomica,alerta6,inicio,boosting + isotónica,"+0.033 [+0.023, +0.043]","+0.006 [-0.004, +0.015]",mejor,igual
+agronomica,alerta6,inicio,boosting + Platt,"+0.031 [+0.023, +0.039]","+0.007 [-0.003, +0.015]",mejor,igual
+agronomica,alerta6,inicio,random forest + isotónica,"+0.013 [-0.005, +0.030]","-0.013 [-0.030, +0.005]",igual,igual

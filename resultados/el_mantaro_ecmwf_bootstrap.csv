@@ -1,0 +1,17 @@
+umbral,plazo,casos,ΔCSI,CSI,ΔBSS,BSS
+meteorologica,1,todos,"+0.004 [-0.007, +0.017]",igual,"+0.001 [-0.004, +0.007]",igual
+meteorologica,1,inicio,"+0.009 [-0.023, +0.041]",igual,"+0.007 [-0.015, +0.030]",igual
+meteorologica,3,todos,"-0.006 [-0.027, +0.015]",igual,"+0.002 [-0.007, +0.013]",igual
+meteorologica,3,inicio,"-0.014 [-0.049, +0.016]",igual,"-0.003 [-0.020, +0.012]",igual
+meteorologica,6,todos,"-0.034 [-0.065, -0.002]",peor,"-0.017 [-0.040, +0.004]",igual
+meteorologica,6,inicio,"-0.039 [-0.075, -0.001]",peor,"-0.018 [-0.045, +0.009]",igual
+meteorologica,alerta6,todos,"+0.001 [-0.016, +0.017]",igual,"-0.008 [-0.022, +0.006]",igual
+meteorologica,alerta6,inicio,"-0.000 [-0.026, +0.024]",igual,"-0.009 [-0.034, +0.015]",igual
+agronomica,1,todos,"-0.003 [-0.011, +0.006]",igual,"+0.001 [-0.003, +0.005]",igual
+agronomica,1,inicio,"-0.016 [-0.053, +0.019]",igual,"+0.003 [-0.015, +0.022]",igual
+agronomica,3,todos,"-0.008 [-0.024, +0.007]",igual,"+0.006 [-0.004, +0.016]",igual
+agronomica,3,inicio,"-0.020 [-0.046, +0.005]",igual,"+0.008 [-0.012, +0.029]",igual
+agronomica,6,todos,"+0.001 [-0.021, +0.022]",igual,"-0.008 [-0.025, +0.009]",igual
+agronomica,6,inicio,"+0.003 [-0.019, +0.027]",igual,"-0.008 [-0.026, +0.013]",igual
+agronomica,alerta6,todos,"-0.002 [-0.016, +0.011]",igual,"-0.003 [-0.018, +0.010]",igual
+agronomica,alerta6,inicio,"-0.008 [-0.028, +0.013]",igual,"-0.005 [-0.027, +0.018]",igual

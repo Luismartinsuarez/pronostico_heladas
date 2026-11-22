@@ -1,0 +1,22 @@
+# Informes (Word, PDF, LaTeX): se mantienen fuera del repositorio
+resultados/informe/
+
+# Datos pesados de las estaciones (no se versionan)
+data/raw/
+data/processed/
+
+# Modelos entrenados (>100 MB; se regeneran con los notebooks)
+resultados/modelos/
+*.joblib
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# Sistema y editores
+.DS_Store
+.vscode/
+.idea/
